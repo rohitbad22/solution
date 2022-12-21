@@ -50,6 +50,7 @@ Applicants will get information regarding next steps in hiring via campus placem
 Applicants will be informed about final status of hiring for a particular position.
 
 ## Non-Functional Requirements:
+
 * Secure access for Confidential Data
   * The security of the system is maintained by providing a login interface to the user. Only those who have the login is and password can enter the system.
 * Better component design
